@@ -43,4 +43,4 @@ The system uses modular arithmetic to transform text based on the following:
 ### 📫 Connect with Me
 📧 **Email:** menna.abdelsalam.eng@gmail.com
 <br>
-💼 **LinkedIn:** [Mennatallah Ahmed](https://www.linkedin.com/)
+💼 **LinkedIn:** https://www.linkedin.com/in/mennatallah-ahmed-abdel-salam-ahmed-28332a3a9/
