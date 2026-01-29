@@ -26,4 +26,8 @@ The system uses modular arithmetic to transform text based on the following:
 
 ---
 **Developed by:** Mennatallah Ahmed Abdel Salam Ahmed 
-**Faculty of Engineering, Ain Shams University** *Integrated Programs (Credit Hours System - iCHEP)* *In partnership with University of East London (UEL)*
+**Faculty of Engineering, Ain Shams University** 
+
+*Integrated Programs (Credit Hours System - iCHEP)* 
+
+**In partnership with University of East London (UEL)*
