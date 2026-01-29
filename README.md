@@ -30,7 +30,7 @@ The system uses modular arithmetic to transform text based on the following:
 
 **Mennatallah Ahmed Abdel Salam Ahmed**
 <br>
-🎓 **Computer Engineering Student**
+🎓 **Computer And Artificial Intelligence Engineering Student**
 <br>
 🏛 **Faculty of Engineering, Ain Shams University**
 <br>
