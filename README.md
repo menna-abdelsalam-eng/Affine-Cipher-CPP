@@ -25,5 +25,5 @@ The system uses modular arithmetic to transform text based on the following:
 3. The system outputs both the encrypted and decrypted strings.
 
 ---
-**Developed by:** Mennatallah Ahmed Abdelsalam  
+**Developed by:** Mennatallah Ahmed Abdel Salam Ahmed
 *Faculty of Engineering, Ain Shams University*
