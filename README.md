@@ -25,9 +25,22 @@ The system uses modular arithmetic to transform text based on the following:
 3. The system outputs both the encrypted and decrypted strings.
 
 ---
-**Developed by:** Mennatallah Ahmed Abdel Salam Ahmed 
-**Faculty of Engineering, Ain Shams University** 
+---
+### 👩‍💻 Developed By:
 
-*Integrated Programs (Credit Hours System - iCHEP)* 
+**Mennatallah Ahmed Abdel Salam Ahmed**
+<br>
+🎓 **Computer Engineering Student**
+<br>
+🏛 **Faculty of Engineering, Ain Shams University**
+<br>
+✨ **iCHEP - Credit Hours Programs**
+<br>
+🇬🇧 **Dual Degree in partnership with University of East London (UEL)**
 
-**In partnership with University of East London (UEL)*
+---
+
+### 📫 Connect with Me
+📧 **Email:** [Your.Email@example.com](mailto:Your.Email@example.com)
+<br>
+💼 **LinkedIn:** [Mennatallah Ahmed](https://www.linkedin.com/in/your-profile)
