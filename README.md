@@ -1,4 +1,4 @@
-# 🔐 Affine Cipher Suite (Italian Alphabet Edition)
+# Affine Cipher Suite (Italian Alphabet Edition)
 
 ### Overview
 This project is a robust C++ implementation of the **Affine Cipher**, a mathematical substitution technique. Unlike standard implementations, this version is specifically engineered to work with the **21-letter Italian alphabet** (`A-Z` excluding J, K, W, X, Y).
