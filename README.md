@@ -26,4 +26,4 @@ The system uses modular arithmetic to transform text based on the following:
 
 ---
 **Developed by:** Mennatallah Ahmed Abdel Salam Ahmed
-**Faculty of Engineering, Ain Shams University*
+* **Faculty of Engineering, Ain Shams University*
