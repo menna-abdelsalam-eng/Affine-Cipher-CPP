@@ -41,6 +41,6 @@ The system uses modular arithmetic to transform text based on the following:
 ---
 
 ### 📫 Connect with Me
-📧 **Email:** [Your.Email@example.com](mailto:Your.Email@example.com)
+📧 **Email:** menna.abdelsalam.eng@gmail.com
 <br>
 💼 **LinkedIn:** [Mennatallah Ahmed](https://www.linkedin.com/in/your-profile)
